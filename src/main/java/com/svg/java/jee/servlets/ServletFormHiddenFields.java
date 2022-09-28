@@ -1,4 +1,4 @@
-package com.svg.java.jee.jee001.servlets;
+package com.svg.java.jee.servlets;
 
 import java.io.IOException;
 import java.io.PrintWriter;
